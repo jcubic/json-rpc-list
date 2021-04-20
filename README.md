@@ -39,8 +39,19 @@ List of JSON-RPC Server implementations
 | [fanduel/jsonrpc2-elixir](https://github.com/fanduel/jsonrpc2-elixir) | Elixir | Apache-2.0 | 44 |
 | [lestrrat-p5/JSON-RPC](https://github.com/lestrrat-p5/JSON-RPC) | Perl | GPL-1.0 or Artistic License | 14 |
 | [cranetm/yii2-json-rpc-2.0](https://github.com/cranetm/yii2-json-rpc-2.0) | PHP (Yii2) | Apache-2.0 | 24 |
+| [alorence/django-modern-rpc](https://github.com/alorence/django-modern-rpc) | Python (Django) | MIT | 72 |
+| [status-im/nim-json-rpc](https://github.com/status-im/nim-json-rpc) | Nim | Apache-2.0 | 43 |
+| [palantir/python-jsonrpc-server](https://github.com/palantir/python-jsonrpc-server) | Python | MIT | 60 |
+| [tedeh/jayson](https://github.com/tedeh/jayson) | JavaScript (NodeJS) | MIT | 578 |
+| [bbkr/JSON-RPC](https://github.com/bbkr/JSON-RPC) | Raku | Artistic-2.0 | 8 |
+| [joncol/jcon-cpp](https://github.com/joncol/jcon-cpp) | C++ 11 (Qt 5) | MIT | 148 |
+| [zuiderkwast/jsonrpc2-erlang](https://github.com/zuiderkwast/jsonrpc2-erlang) | Erlang | Apache-2.0 | 21 |
+| [adamashton/json-rpc-csharp](https://github.com/adamashton/json-rpc-csharp) | C# | GPL-3.0 | 21 |
+| [OctopusDeploy/Halibut](https://github.com/OctopusDeploy/Halibut) | C# (.NET) | Apache-2.0 | 210 |
+| [upgate/laravel-jsonrpc](https://github.com/upgate/laravel-jsonrpc) | PHP (Laravel) | BSD-2 | 45 |
 
 <!--
+| [sergeyfast/eazy-jsonrpc](https://github.com/sergeyfast/eazy-jsonrpc) | PHP | Unknown | |
 | [github.com/rryqszq4/php-JsonRPC](https://github.com/rryqszq4/php-JsonRPC) | PHP,C | - | Unknown | 36 |
 | [Pozo/json-rpc-php](https://github.com/Pozo/json-rpc-php) | PHP | Unknown | 29 |
 | [guangqianpeng/jrpc](https://github.com/guangqianpeng/jrpc) | C++17 | Unknown | 120 |
