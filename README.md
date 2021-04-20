@@ -1,8 +1,8 @@
 # json-rpc-list
 List of JSON-RPC Server implementations
 
-| Reposity | Language | License | Stars |
-| :-       | :-       | :-      | :-    |
+| Repository | Language | License | Stars |
+| :-         | :-       | :-      | :-    |
 | [briandilley/jsonrpc4j](https://github.com/briandilley/jsonrpc4j) | Java | MIT | 876 |
 | [paritytech/jsonrpc](https://github.com/paritytech/jsonrpc) | Rust | MIT | 491 |
 | [pavlov99/json-rpc](https://github.com/pavlov99/json-rpc) | Python | MIT | 369 |
@@ -24,6 +24,7 @@ List of JSON-RPC Server implementations
 | [ericflo/node-jsonrpc](https://github.com/ericflo/node-jsonrpc) | JavaScript | MIT | 91 |
 | [datto/php-json-rpc-http](https://github.com/datto/php-json-rpc-http) | PHP | LGPL-3.0 | 50 |
 | [chriskite/jimson](https://github.com/chriskite/jimson) | Ruby | MIT | 125 |
+
 
 ## License
 This is list is relaseed under [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) License<br/>
