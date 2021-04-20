@@ -26,8 +26,8 @@ List of JSON-RPC Server implementations
 | [chriskite/jimson](https://github.com/chriskite/jimson) | Ruby | MIT | 125 |
 | [CXuesong/JsonRpc.Standard](https://github.com/CXuesong/JsonRpc.Standard) | C# | Apache-2.0 | 25 |
 | [jprupp/json-rpc](https://github.com/jprupp/json-rpc) | Haskell | MIT | 22 |
-| [johnstevenson/jsonrpc](https://github.com/johnstevenson/jsonrpc) | PHP | - | MIT | 42 |
-| [jcubic/json-rpc](https://github.com/jcubic/json-rpc) | PHP | - | MIT | 11 |
+| [johnstevenson/jsonrpc](https://github.com/johnstevenson/jsonrpc) | PHP | MIT | 42 |
+| [jcubic/json-rpc](https://github.com/jcubic/json-rpc) | PHP | MIT | 11 |
 | [alexanderkozlenko/json-rpc](https://github.com/alexanderkozlenko/json-rpc) | C# (.NET 5) | MIT | 36 |
 | [wasinger/jsonrpc-bundle](https://github.com/wasinger/jsonrpc-bundle) | PHP (Symphony) | MIT | 31 |
 | [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) | Go | MIT | 22 |
