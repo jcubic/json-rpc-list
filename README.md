@@ -37,6 +37,8 @@ List of JSON-RPC Server implementations
 | [alexanderkozlenko/aspnetcore-json-rpc](https://github.com/alexanderkozlenko/aspnetcore-json-rpc) | C# (ASP.NET Core in .NET 5) | MIT | 47 |
 | [cesanta/mjson](https://github.com/cesanta/mjson) | C/C++ (embedded) | MIT | 145 |
 | [fanduel/jsonrpc2-elixir](https://github.com/fanduel/jsonrpc2-elixir) | Elixir | Apache-2.0 | 44 |
+| [lestrrat-p5/JSON-RPC](https://github.com/lestrrat-p5/JSON-RPC) | Perl | GPL-1.0 or Artistic License | 14 |
+| [cranetm/yii2-json-rpc-2.0](https://github.com/cranetm/yii2-json-rpc-2.0) | PHP (Yii2) | Apache-2.0 | 24 |
 
 <!--
 | [github.com/rryqszq4/php-JsonRPC](https://github.com/rryqszq4/php-JsonRPC) | PHP,C | - | Unknown | 36 |
