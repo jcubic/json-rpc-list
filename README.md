@@ -7,24 +7,43 @@ List of JSON-RPC Server implementations
 | [paritytech/jsonrpc](https://github.com/paritytech/jsonrpc) | Rust | MIT | 491 |
 | [pavlov99/json-rpc](https://github.com/pavlov99/json-rpc) | Python | MIT | 369 |
 | [cinemast/libjson-rpc-cpp](https://github.com/cinemast/libjson-rpc-cpp) | C++ | MIT | 663 |
-| [samuraisam/django-json-rpc](https://github.com/samuraisam/django-json-rpc) | Python | MIT | 285 |
-| [Astn/JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) | C# | MIT | 276 |
+| [samuraisam/django-json-rpc](https://github.com/samuraisam/django-json-rpc) | Python (Django) | MIT | 285 |
+| [Astn/JSON-RPC.NET](https://github.com/Astn/JSON-RPC.NET) | C# (ASP.NET) | MIT | 276 |
 | [apache/dubbo-rpc-jsonrpc](https://github.com/apache/dubbo-rpc-jsonrpc) | Java | Apache 2.0 | 177 |
 | [edjCase/JsonRpc](https://github.com/edjCase/JsonRpc) | C# | MIT | 115 |
 | [nuxwin/JsonRPC](https://github.com/nuxwin/JsonRPC) | PHP | Unlicense | 3 |
 | [subutux/json-rpc2php](https://github.com/subutux/json-rpc2php) | PHP | GPL-2.0 | 46 |
-| [datto/php-json-rpc](https://github.com/datto/php-json-rpc) | PHP | 143 |
-| [joshmarshall/jsonrpclib](https://github.com/joshmarshall/jsonrpclib) | Python | Apache 2.0 | 408 |
+| [datto/php-json-rpc](https://github.com/datto/php-json-rpc) | PHP | LGPL-3.0 | 143 |
+| [joshmarshall/jsonrpclib](https://github.com/joshmarshall/jsonrpclib) | Python | Apache-2.0 | 408 |
 | [felixfbecker/php-advanced-json-rpc](https://github.com/felixfbecker/php-advanced-json-rpc) | PHP | ISC | 170 |
 | [jsonrpcx/json-rpc-cxx](https://github.com/jsonrpcx/json-rpc-cxx) | C++ | MIT | 69 |
 | [dart-lang/json_rpc_2](https://github.com/dart-lang/json_rpc_2) | Dart | BSD-3 | 41 |
 | [arteam/simple-json-rpc](https://github.com/arteam/simple-json-rpc) | Java | MIT | 60 |
 | [hmng/jsonrpc-c](https://github.com/hmng/jsonrpc-c) | C | MIT | 156 |
-| [cenobites/flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) | Python | BSD-3 | 225 |
-| [ericflo/node-jsonrpc](https://github.com/ericflo/node-jsonrpc) | JavaScript | MIT | 91 |
+| [cenobites/flask-jsonrpc](https://github.com/cenobites/flask-jsonrpc) | Python (Flask) | BSD-3 | 225 |
+| [ericflo/node-jsonrpc](https://github.com/ericflo/node-jsonrpc) | JavaScript (NodeJS) | MIT | 91 |
 | [datto/php-json-rpc-http](https://github.com/datto/php-json-rpc-http) | PHP | LGPL-3.0 | 50 |
 | [chriskite/jimson](https://github.com/chriskite/jimson) | Ruby | MIT | 125 |
+| [CXuesong/JsonRpc.Standard](https://github.com/CXuesong/JsonRpc.Standard) | C# | Apache-2.0 | 25 |
+| [jprupp/json-rpc](https://github.com/jprupp/json-rpc) | Haskell | MIT | 22 |
+| [johnstevenson/jsonrpc](https://github.com/johnstevenson/jsonrpc) | PHP | - | MIT | 42 |
+| [jcubic/json-rpc](https://github.com/jcubic/json-rpc) | PHP | - | MIT | 11 |
+| [alexanderkozlenko/json-rpc](https://github.com/alexanderkozlenko/json-rpc) | C# (.NET 5) | MIT | 36 |
+| [wasinger/jsonrpc-bundle](https://github.com/wasinger/jsonrpc-bundle) | PHP (Symphony) | MIT | 31 |
+| [filecoin-project/go-jsonrpc](https://github.com/filecoin-project/go-jsonrpc) | Go | MIT | 22 |
+| [badaix/jsonrpcpp](https://github.com/badaix/jsonrpcpp) | C++ | MIT | 72 |
+| [atifaziz/Jayrock](https://github.com/atifaziz/Jayrock) | C# (.Net/Mono) | GPL-3.0 | 24 |
+| [shogowada/scala-json-rpc](https://github.com/shogowada/scala-json-rpc) | Scala | MIT | 38 |
+| [alexanderkozlenko/aspnetcore-json-rpc](https://github.com/alexanderkozlenko/aspnetcore-json-rpc) | C# (ASP.NET Core in .NET 5) | MIT | 47 |
+| [cesanta/mjson](https://github.com/cesanta/mjson) | C/C++ (embedded) | MIT | 145 |
+| [fanduel/jsonrpc2-elixir](https://github.com/fanduel/jsonrpc2-elixir) | Elixir | Apache-2.0 | 44 |
 
+<!--
+| [github.com/rryqszq4/php-JsonRPC](https://github.com/rryqszq4/php-JsonRPC) | PHP,C | - | Unknown | 36 |
+| [Pozo/json-rpc-php](https://github.com/Pozo/json-rpc-php) | PHP | Unknown | 29 |
+| [guangqianpeng/jrpc](https://github.com/guangqianpeng/jrpc) | C++17 | Unknown | 120 |
+
+-->
 
 ## License
 This is list is relaseed under [CC-0](http://creativecommons.org/publicdomain/zero/1.0/) License<br/>
