@@ -49,6 +49,7 @@ List of JSON-RPC Server implementations
 | [adamashton/json-rpc-csharp](https://github.com/adamashton/json-rpc-csharp) | C# | GPL-3.0 | 21 |
 | [OctopusDeploy/Halibut](https://github.com/OctopusDeploy/Halibut) | C# (.NET) | Apache-2.0 | 210 |
 | [upgate/laravel-jsonrpc](https://github.com/upgate/laravel-jsonrpc) | PHP (Laravel) | BSD-2 | 45 |
+| [smagafurov/fastapi-jsonrpc](https://github.com/smagafurov/fastapi-jsonrpc) | Python | MIT | 102 |
 
 <!--
 | [sergeyfast/eazy-jsonrpc](https://github.com/sergeyfast/eazy-jsonrpc) | PHP | Unknown | |
